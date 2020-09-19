@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: setup-draw
+# key: setup-draw
+# --
+void setup() {
+     $0
+}
+
+void draw() {
+
+}

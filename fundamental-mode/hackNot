@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackNot
+# key: HackNot
+# --
+Not(in=$1, out=$2);

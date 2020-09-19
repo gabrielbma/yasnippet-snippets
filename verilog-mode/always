@@ -1,0 +1,7 @@
+# name: always
+# key: always
+# group: verilog
+# --
+always @($1) begin
+   $0
+end

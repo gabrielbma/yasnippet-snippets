@@ -1,0 +1,5 @@
+# contributor: Gabriel Armelin
+# name: extlink
+# key: extlink
+# --
+<link href="$1" rel="stylesheet" type="text/css">$0

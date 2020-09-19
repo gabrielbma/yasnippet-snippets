@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: react new comp
+# key: react-new-comp
+# --
+var $1 = React.createClass({
+    render: function(){
+        return(
+            $0
+        )
+    }
+});

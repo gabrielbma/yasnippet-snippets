@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sliderinput-range
+# key: sliderinput-range
+# --
+sliderInput("range", "Range:",
+                min = 1, max = 1000, value = c(200,500))

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackDMux
+# key: HackDMux
+# --
+DMux(in=$1, sel=$2, a=$3, b=$4);

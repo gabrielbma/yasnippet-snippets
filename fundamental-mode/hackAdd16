@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackAdd16
+# key: HackAdd16
+# --
+Add16(a=$1, b=$2, out=$3);

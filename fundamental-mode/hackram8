@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackRam8
+# key: HackRam8
+# --
+RAM8(in=$1, load=$2, address=$3, out=$4);

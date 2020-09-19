@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: ui-tpl
+# key: ui-tpl
+# --
+library(shiny)
+
+shinyUI(pageWithSidebar(
+  headerPanel("$1"),
+  sidebarPanel($0),
+  mainPanel()
+))

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numericinput
+# key: numericinput
+# --
+numericInput("$1", "$2", $0)

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: renderdatatable
+# key: renderdatatable
+# --
+output$$0 = renderDataTable({$1})

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sliderinput-format
+# key: sliderinput-format
+# --
+sliderInput("format", "Custom Format:", 
+                min = 0, max = 10000, value = 0, step = 2500,
+                format="$#,##0", locale="us", animate=TRUE)

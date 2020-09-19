@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sliderinput-decimal
+# key: sliderinput-decimal
+# --
+sliderInput("decimal", "Decimal:", 
+                min = 0, max = 1, value = 0.5, step= 0.1)

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackRegister
+# key: HackRegister
+# --
+Register(in=$1, load=$2, out=$3);

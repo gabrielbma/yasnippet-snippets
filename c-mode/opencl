@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: clprogrambuild
+# key: clprogrambuild
+# binding: direct-keybinding
+# expand-env: ((some-var some-value))
+# type: command
+# --
+#clBuildProgram(${1:program}, ${2:0}, ${3:NULL}, ${4:NULL}, ${5:NULL}, ${6:NULL});
+clBuildProgram();

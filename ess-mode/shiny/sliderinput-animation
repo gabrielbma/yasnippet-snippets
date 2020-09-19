@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sliderinput-animate
+# key: sliderinput-animate
+# --
+sliderInput("animation", "Looping Animation:", 1, 2000, 1, step = 10, 
+                animate=animationOptions(interval=300, loop=T))

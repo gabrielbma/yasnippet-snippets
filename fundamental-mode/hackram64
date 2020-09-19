@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackRAM64
+# key: HackRAM64
+# --
+RAM64(in=$1, load=$2, address=$3, out=$4);

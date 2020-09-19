@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: selectinput
+# key: selectinput
+# --
+selectInput("${1:dataset}", "${2:Choose a dataset:}", 
+                choices = c("$3", "$4", "$5"))

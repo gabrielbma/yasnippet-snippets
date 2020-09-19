@@ -1,0 +1,7 @@
+# name: beginend
+# key: beginend
+# group: verilog
+# --
+begin
+   $0
+end

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: HackOr
+# key: HackOr
+# --
+Or(a=$1, b=$2, out=$3);
+

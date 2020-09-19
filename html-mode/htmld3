@@ -1,0 +1,16 @@
+# contributor: Gabriel Armelin
+# name: htmld3
+# key: htmld3
+# --
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>${1:`(file-name-base)`}</title>
+    </head>
+    <body>
+    $0      
+    </body>
+   <script type="text/javascript" src="/Users/gabrielbma/Downloads/d3.v3/d3.v3.js"></script>
+   <script type="text/javascript" src="${1:`(file-name-base)`}.js"></script>
+</html>

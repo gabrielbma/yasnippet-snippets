@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackMux
+# key: HackMux
+# --
+Mux(a=$1, b=$2, sel=$3, out=$4);

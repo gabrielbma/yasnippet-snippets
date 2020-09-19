@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: HackBit
+# key: HackBit
+# --
+Bit(in=$1, load=$2, out=$3);

@@ -1,0 +1,11 @@
+# name: alwaysclk
+# key: alwaysclk
+# group: verilog
+# --
+always @(posedge ${1:clk},  negedge ${2:reset}) begin
+   if (~$2) begin
+      $0
+   end else begin
+  
+   end
+end

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: submitbutton
+# key: submitbutton
+# --
+submitButton("$0")

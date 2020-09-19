@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obj-func
+# key: obj-func
+# --
+$1 : function($2) {
+   $0
+}

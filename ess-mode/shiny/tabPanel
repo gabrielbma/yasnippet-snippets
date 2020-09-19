@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tabpanel
+# key: tabpanel
+# --
+tabPanel("$1", $0)
